@@ -1,3 +1,3 @@
-## oi estou programando 💻🐕
+## Oi estou programando 💻🐕
 
-![Cachorro] 
+![Cachorro](https://github.com/andrezinc/andrezinc/blob/main/Cachorro.jpg?raw=true)
