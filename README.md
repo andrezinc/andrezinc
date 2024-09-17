@@ -8,3 +8,6 @@ Projeto de análise de dados climáticos utilizando o microcontrolador ESP32. De
 
 ### [Game Get Circule](https://github.com/andrezinc/Game_getCircule)
 Um jogo desenvolvido em C++ que desafia os jogadores a alcançar objetivos dentro de um ambiente interativo. Ideal para entusiastas de programação e desenvolvimento de jogos.
+
+### [Encontra Caminho](https://github.com/andrezinc/Caminho_Labirinto)
+Trabalho da disciplina Fundamentos de Programação, profs. Bogdan T. Nassu, Leyza E. B. * Dorini e Daniel F. Pigatto, Universidade Tecnológica Federal do Paraná
