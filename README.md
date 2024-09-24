@@ -10,7 +10,7 @@ ___
 [![Card 2](https://github-readme-stats.vercel.app/api/pin/?username=andrezinc&repo=Caminho_Labirinto&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514)](https://github.com/andrezinc/Caminho_Labirinto)
 [![Card 3](https://github-readme-stats.vercel.app/api/pin/?username=andrezinc&repo=Game_getCircule&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514)](https://github.com/andrezinc/Game_getCircule)
 [![Card 4](https://github-readme-stats.vercel.app/api/pin/?username=andrezinc&repo=Cardapio_RU_UTFPR&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514)](https://github.com/andrezinc/Cardapio_RU_UTFPR)
-[![Card 5](https://github-readme-stats.vercel.app/api/pin/?username=andrezinc&repo=Temporizador&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514)](https://github.com/andrezinc/Cardapio_RU_UTFPR)
+[![Card 5](https://github-readme-stats.vercel.app/api/pin/?username=andrezinc&repo=Temporizador&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514)](https://github.com/andrezinc/Temporizador)
 ___
 ![Codewars Rank](https://www.codewars.com/users/andrezinc/badges/large)
 ___
