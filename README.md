@@ -25,3 +25,4 @@ ___
 ![Figma](https://img.shields.io/badge/Figma-353244?style=for-the-badge&logo=Figma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-353244?style=for-the-badge&logo=Python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-353244?style=for-the-badge&logo=arduino&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-353244?style=for-the-badge&logo=swift&logoColor=white)
