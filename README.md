@@ -52,7 +52,7 @@
 
   <tr>
     <td width="50%">
-      <h3>🩸 Auris</h3>
+      <h3>🏥 Auris</h3>
       <p>Aplicativo em Swift voltado para descrição de higiene menstrual.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-353244?style=for-the-badge&logo=swift&logoColor=white" />
