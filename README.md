@@ -1,5 +1,7 @@
 <p align="center">
   <img src="assets/banner.svg" alt="André Castilhano — apps, jogos e projetos embarcados" width="100%">
+  <img src="gnulinux-logo-2209660509.png" alt="GNU e Linux">
+
 </p>
 
 <p align="center">
@@ -16,62 +18,27 @@ Sou o **André**, estudante de **Sistemas de Informação na UTFPR**. Meus proje
 
 Gosto de aprender construindo: combinar gatos para criar música, transformar uma foto em informação acessível ou fazer dispositivos conversarem entre si. Por aqui, **Swift** divide espaço com **C/C++, Python, Rust e Linux**.
 
-## No play: Meowsic 🐈
-
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <a href="https://github.com/andrezinc/Meowsic">
-        <img src="https://raw.githubusercontent.com/andrezinc/Meowsic/main/photos/Icon_Dark%20%281%29.png" alt="Ícone do Meowsic: gato saindo de um bueiro roxo" width="180">
-      </a>
-    </td>
-    <td width="70%">
-      <h3>De gatos de rua a estrelas de uma banda.</h3>
-      <p>Um jogo de criação musical em que cada gato traz uma camada sonora. Combine personagens, explore instrumentos e monte sua própria track.</p>
-      <p><strong>Swift · SwiftUI · SpriteKit · AVFoundation</strong></p>
-      <a href="https://github.com/andrezinc/Meowsic">Explorar o projeto ↗</a>
-      &nbsp;·&nbsp;
-      <a href="https://apps.apple.com/br/app/meowsic-fa%C3%A7a-sua-track/id6761025426">Ver na App Store ↗</a>
-    </td>
-  </tr>
-</table>
-
 ## Na bancada
 
 Projetos com atualizações recentes, entre apps, comunicação entre dispositivos e web.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◉ Auris</h3>
+  <h3 href="https://github.com/andrezinc/AurisRealesed">Auris</h3>
       <p>Uma foto da embalagem, mais informação para escolher. App que descreve absorventes com inteligência artificial e recursos de acessibilidade para VoiceOver.</p>
       <p><code>Swift</code> <code>SwiftUI</code> <code>IA</code> <code>Acessibilidade</code></p>
-      <a href="https://github.com/andrezinc/AurisRealesed">Conhecer o Auris ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌘ Metatron</h3>
+      <a href="https://github.com/andrezinc/AurisRealesed">Conhecer o Auris </a>
+
+
+  <h3>Metatron</h3>
       <p>Um iPhone como controle, cinco equipes no placar. Protótipo para estudar comunicação entre dispositivos Apple sem servidor intermediário.</p>
       <p><code>Swift</code> <code>SwiftUI</code> <code>MultipeerConnectivity</code></p>
-      <a href="https://github.com/andrezinc/Metatron">Explorar o Metatron ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>↗ Macre · site de suporte</h3>
+      <a href="https://github.com/andrezinc/Metatron">Explorar o Metatron </a>
+
+
+   <h3>Macre · site de suporte</h3>
       <p>Projeto web para a URL de suporte do Macre.</p>
       <p><code>HTML</code> <code>Web</code></p>
-      <a href="https://github.com/andrezinc/site_macre">Ver o site de suporte ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Portão Eletrônico</h3>
-      <p>Automação e controle: um projeto para explorar sistemas embarcados, com configuração de build em CMake.</p>
-      <p><code>Embarcados</code> <code>CMake</code></p>
-      <a href="https://github.com/andrezinc/portao-eletronico">Abrir o projeto ↗</a>
-    </td>
-  </tr>
-</table>
+      <a href="https://github.com/andrezinc/site_macre">Ver o site de suporte</a>
 
-**Também na web:** [Meowdibox Site](https://github.com/andrezinc/Meowdibox-Site), o site do projeto musical.
 
 <details>
   <summary><strong>Mais experiências pelo caminho</strong></summary>
@@ -103,7 +70,7 @@ Projetos com atualizações recentes, entre apps, comunicação entre dispositiv
 ## Entre um commit e outro
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezinc&bg_color=15151f&color=b8a0ff&line=93e2be&point=f6a57f&area=true&hide_border=true&custom_title=Ideias%20virando%20commits" alt="Gráfico de atividade de andrezinc no GitHub" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezinc&bg_color=15151f&color=b8a0ff&line=93e2be&point=f6a57f&area=true&hide_border=true&custom_title=meus%20commits%20:P" alt="Gráfico de atividade de andrezinc no GitHub" width="100%">
 </p>
 
 <details>
