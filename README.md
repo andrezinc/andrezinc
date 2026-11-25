@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="#quem-está-por-aqui">Sobre</a> ·
-  <a href="#no-play-meowsic">Meowsic</a> ·
   <a href="#na-bancada">Projetos</a> ·
   <a href="#minha-caixa-de-ferramentas">Tecnologias</a> ·
   <a href="#entre-um-commit-e-outro">Atividade</a>
