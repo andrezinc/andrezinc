@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">André Castilhano</title>
+  <desc id="desc">Apps, jogos e projetos embarcados. UTFPR, Sistemas de Informação. Banner escuro com detalhes em verde e lilás.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b8a0ff" stroke-opacity=".055"/>
+    </pattern>
+    <linearGradient id="accent" x2="1" y2="1">
+      <stop stop-color="#b8a0ff"/>
+      <stop offset="1" stop-color="#93e2be"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="#15151f"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <path d="M22 64V24H64M1136 296h40v-40" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <circle cx="65" cy="64" r="5" fill="#93e2be"/>
+    <text x="83" y="69" fill="#93e2be" font-size="15" letter-spacing="3">ANDREZINC / DEV</text>
+    <text x="60" y="151" fill="#f2eefb" font-family="system-ui, -apple-system, sans-serif" font-size="58" font-weight="750" letter-spacing="-2">André Castilhano</text>
+    <text x="63" y="195" fill="#b8a0ff" font-size="20">apps, jogos e projetos embarcados.</text>
+    <text x="63" y="258" fill="#9b98ad" font-size="14">UTFPR · Sistemas de Informação</text>
+    <g transform="translate(850 57)">
+      <rect width="280" height="202" rx="12" fill="#1d1d2a" stroke="#353247"/>
+      <path d="M0 37H280" stroke="#353247"/>
+      <circle cx="18" cy="19" r="4" fill="#f6a57f"/>
+      <circle cx="33" cy="19" r="4" fill="#e9d58c"/>
+      <circle cx="48" cy="19" r="4" fill="#93e2be"/>
+      <text x="23" y="77" fill="#9b98ad" font-size="14">~/ideias</text>
+      <text x="23" y="112" fill="#93e2be" font-size="17">→ criar</text>
+      <text x="23" y="143" fill="#b8a0ff" font-size="17">→ experimentar</text>
+      <text x="23" y="174" fill="#f6a57f" font-size="17">→ aprender</text>
+      <path d="M230 164v14" stroke="#93e2be" stroke-width="9"/>
+    </g>
+  </g>
+</svg>
