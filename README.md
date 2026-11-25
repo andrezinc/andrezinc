@@ -12,10 +12,9 @@
 </p>
 
 ## Quem está por aqui 🛹
+Oie sou o andre
 
-Sou o **André**, estudante de **Sistemas de Informação na UTFPR**. Meus projetos vão de aplicativos para iPhone e jogos a automações e sistemas embarcados.
-
-Gosto de aprender construindo: combinar gatos para criar música, transformar uma foto em informação acessível ou fazer dispositivos conversarem entre si. Por aqui, **Swift** divide espaço com **C/C++, Python, Rust e Linux**.
+Gosto de muito de aprender construindo: combinar gatos para criar música, transformar uma foto em informação acessível ou fazer dispositivos conversarem entre si. Por aqui, **Swift** divide espaço com **C/C++, Python, Rust e Linux**.
 
 ## Na bancada
 
@@ -32,26 +31,8 @@ Projetos com atualizações recentes, entre apps, comunicação entre dispositiv
       <p><code>Swift</code> <code>SwiftUI</code> <code>MultipeerConnectivity</code></p>
       <a href="https://github.com/andrezinc/Metatron">Explorar o Metatron </a>
 
+  
 
-   <h3>Macre · site de suporte</h3>
-      <p>Projeto web para a URL de suporte do Macre.</p>
-      <p><code>HTML</code> <code>Web</code></p>
-      <a href="https://github.com/andrezinc/site_macre">Ver o site de suporte</a>
-
-
-<details>
-  <summary><strong>Mais experiências pelo caminho</strong></summary>
-
-| Projeto | O que explorei |
-| --- | --- |
-| [CineFiles](https://github.com/andrezinc/CineFiles) | Aplicativo em Swift relacionado a filmes |
-| [UIKit Nano 3](https://github.com/andrezinc/UiKit_Nano3) | Construção de interfaces com UIKit |
-| [Cardápio RU UTFPR](https://github.com/andrezinc/Cardapio_RU_UTFPR) | Automação em Python para consultar o cardápio pelo Telegram |
-| [Quizzes RustC](https://github.com/andrezinc/quizzes_rustc) | Exercícios de Rust inspirados no Rustlings |
-| [Climatologia ESP32](https://github.com/andrezinc/climatologia_esp32) | Monitoramento de condições climáticas com um ESP32 |
-| [GetCircules](https://github.com/andrezinc/Game_getCircule) | Jogo em C++ com SFML |
-
-</details>
 
 ## Minha caixa de ferramentas
 
@@ -85,5 +66,3 @@ Projetos com atualizações recentes, entre apps, comunicação entre dispositiv
     <img src="https://www.codewars.com/users/andrezinc/badges/large" alt="Graduação de andrezinc no Codewars">
   </a>
 </p>
-
-<p align="center"><sub>De uma ideia na tela a alguma coisa funcionando.</sub></p>
