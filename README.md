@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="André Castilhano — apps, jogos e projetos embarcados" width="100%">
-  <img src="gnulinux-logo-2209660509.png" alt="GNU e Linux">
+  <img src="Gnu_Alien_Linux.png" alt="GNU e Linux">
 
 </p>
 
